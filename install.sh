@@ -115,6 +115,7 @@ brew install youtube-dl
 brew install tree
 brew install tmux
 brew install tree
+brew install maven
 
 # SDK Man stuffs
 fancy_echo "Installing sdk-man"
