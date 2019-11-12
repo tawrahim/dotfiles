@@ -27,6 +27,7 @@ git commit -m ""
 - sdkman
 - java8
 - gradle
+- maven
 - vim/pathogen
 
 
